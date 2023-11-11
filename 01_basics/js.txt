@@ -1,0 +1,34 @@
+Lecture -1;
+
+setting up envioement;
+node js - how js was attached with the browser but now it is used outside server side so node js is a enviorment and and deno.js 
+1. upload nodejs(to run js he knows to run js files)
+2. where we have to write the code - vs code(code editor help to write code)
+3.
+Lecture -2;
+save and work on github for javascript ;
+set up online runtime enviorment on the git 
+creat repo with reame file then 
+code -codespace- file -view- command pellastien->configuration -container add nodejs & javascript-
+now rebuild machine is ready.
+
+how to online codspace form git take and pause it after work becuse certain number of hours ar only free;
+
+Lecture -3;
+let 
+cost 
+var
+
+Lecture -4:
+Lecture -5;
+Lecture -6;
+Lecture -7;
+Lecture -8;
+Lecture -9;
+Lecture -10;
+Lecture -11;
+Lecture -12:
+Lecture -13;
+Lecture -14;
+Lecture -15;
+Lecture -16;
